@@ -10,4 +10,5 @@ class TechnewApplicationTests {
 	void contextLoads() {
 	}
 
+    // Estudar sobre testes automatizados
 }
